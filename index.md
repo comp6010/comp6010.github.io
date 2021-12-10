@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>COMP6010</h1>
-<p>Fundamentals of Computer Science (using Python)</p>
-</body>
-</html>
+---
+layout: page
+title: COMP6010
+permalink: /index/
+---
+
+# COMP6010 - Fundamentals of Computer Science (using Python)
