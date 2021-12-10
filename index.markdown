@@ -5,4 +5,4 @@
 layout: home
 ---
 
-# COMP6010 - Fundamentals of Computer Science
+## subtitle
