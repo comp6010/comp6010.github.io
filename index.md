@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP6010
+<!--title: COMP6010-->
 <!--permalink: /index/-->
 ---
 
