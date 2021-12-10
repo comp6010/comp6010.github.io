@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About COMP6010
+title: About this unit
 permalink: /about/
 ---
 
