@@ -1,8 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: COMP6010
+permalink: /index/
 ---
 
-# COMP6010 - Fundamentals of Computer Science
+Hi, and welcome to COMP6010, where we learn the fundamental skills in programming using Python.
