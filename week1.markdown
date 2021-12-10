@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About this unit
-permalink: /about/
+title: Week 1
+permalink: /week1/
 ---
+
+#Week 1 stuff
 
 COMP6010 is a foundation unit in Masters programs in School of Computing, Macquarie University. 
 
