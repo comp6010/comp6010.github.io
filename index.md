@@ -9,6 +9,11 @@ layout: page
 </center>
 
 
+<center>
+<img src="./assets/images/python-logo.png" alt="drawing" width="200"/>
+</center>
+
+
 | i 	| i < 5 	| result 	|
 |---	|-------	|--------	|
 | 1 	| true  	| 0+1=1  	|
