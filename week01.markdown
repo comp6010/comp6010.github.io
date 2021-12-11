@@ -28,3 +28,5 @@ You can find the source code for Jekyll at GitHub:
 <!--[The Complete Python Tutorial](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh)-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_uQrJ0TkZlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](./assets/images/java-python.gif)
